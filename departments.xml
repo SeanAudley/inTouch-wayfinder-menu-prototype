@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<departments>
+	<department><title>Discharge Lounge</title>
+		<zone>Level A</zone>
+		<code>1</code>
+		<bgColor>627C4B</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen>
+			<mapscreen>map_0_01</mapscreen>
+		</directions>
+	</department>
+    <department><title>Neurology + Stroke</title>
+		<zone>Level A</zone>
+		<code>2</code>
+		<bgColor>627C4B</bgColor>
+		<directions>
+		<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_0_02</mapscreen>
+		</directions>
+	</department>
+    <department><title>Spinal Injuries Centre</title>
+	 	<zone>Level A</zone>
+	 	<code>4</code> 
+	 	<bgColor>627C4B</bgColor>
+	 	<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_0_04</mapscreen>
+		</directions>
+	</department>
+	<department><title>Neuro Rehab</title>
+		<zone>Level A</zone>
+		<code>3a</code>
+		<bgColor>627C4B</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_0_03a</mapscreen>
+		</directions>
+	</department>
+	<department><title>Outpatients</title>
+		<zone>Level B</zone> 
+		<code>8b</code>
+		<bgColor>228AAD</bgColor>
+		<directions>
+			<mapscreen>map_1_8b</mapscreen>
+		</directions>
+	</department>
+	<department><title>Cardio Respiratory Outpatients</title>
+		<zone>Level B</zone>
+		<code>9</code> 
+		<bgColor>228AAD</bgColor>
+		<directions>
+			<mapscreen>map_1_9</mapscreen>
+		</directions>
+	</department>
+	<department><title>EPAU</title> 
+		<zone>Level B</zone>
+		<code>10a</code>
+		<bgColor>228AAD</bgColor>
+		<directions>
+			<mapscreen>map_1_10a</mapscreen>
+		</directions>
+	</department>
+	<department><title>Antenatal Clinic / Day Unit</title> 
+		<zone>Level B</zone>
+		<code>10b</code>
+		<bgColor>228AAD</bgColor>
+		<directions>
+			<mapscreen>map_1_10b</mapscreen>
+		</directions>
+	</department>
+	<department><title>Medical Ambulatory Care (MAC)</title>
+		<zone>Level B</zone>
+		<code>8c</code>
+		<bgColor>228AAD</bgColor>
+		<directions>
+			<mapscreen>map_1_8c</mapscreen>
+		</directions>
+	</department>
+	<department><title>Outpatients</title> 
+		<zone>Level B</zone>
+		<code>8a </code>
+		<bgColor>228AAD</bgColor>
+		<directions>
+			<mapscreen>map_1_8a</mapscreen>
+		</directions>
+	</department>
+	<department><title>Coronary Care Unit</title> 
+		<zone>Level B</zone>
+		<code>11 </code>
+		<bgColor>228AAD</bgColor>
+		<directions>
+			<mapscreen>map_1_11</mapscreen>
+		</directions>
+	</department>
+	<department><title>Acute Assessment Unit</title>
+	 <zone>Level B</zone>
+	 <code>12</code>
+	 <bgColor>228AAD</bgColor>
+		<directions>
+			<mapscreen>map_1_12</mapscreen>
+		</directions>
+	</department>
+	<department><title>Accident + Emergency</title>
+		<zone>Level B</zone>
+		<code>13a</code>
+		<bgColor>228AAD</bgColor>
+		<directions>
+			<mapscreen>map_1_13ae</mapscreen>
+		</directions>
+	</department>
+	<department><title>General Office</title>
+	 	<zone>Level B</zone>
+	  	<code>14a</code>
+	  	<bgColor>228AAD</bgColor>
+		<directions>
+			<mapscreen>map_1_14a</mapscreen>
+		</directions>
+	</department>
+	<department><title>Bereavement Suite</title>
+		<zone>Level B</zone>
+		<code>14a</code>
+		<bgColor>228AAD</bgColor>
+		<directions>
+			<mapscreen>map_1_14a</mapscreen>
+		</directions>
+	</department>
+	<department><title>Children's Outpatients</title> 
+		<zone>Level B</zone>
+		<code>15</code>
+		<bgColor>228AAD</bgColor>
+		<directions>
+			<mapscreen>map_1_15</mapscreen>
+		</directions>
+	</department>
+	<department><title>Fracture Clinic</title> 
+		<zone>Level B</zone>
+		<code>16</code>
+		<bgColor>228AAD</bgColor>
+		<directions>
+			<mapscreen>map_1_16</mapscreen>
+		</directions>
+	</department>
+	<department><title>X-Ray</title> 
+		<zone>Level B</zone>
+		<code>17 </code>
+		<bgColor>228AAD</bgColor>
+		<directions>
+			<mapscreen>map_1_17</mapscreen>
+		</directions>
+	</department>
+	<department><title>Radiology</title>
+		<zone>Level B</zone>
+		<code>17</code>
+		<bgColor>228AAD</bgColor>
+		<directions>
+			<mapscreen>map_1_17</mapscreen>
+		</directions>
+	</department>
+	<department><title>Labour Suite</title>
+		<zone>Level C</zone>
+		<code>18a</code>
+		<bgColor>DA7660</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_2_18a</mapscreen>
+		</directions>
+	</department>
+	<department><title>Antenatal Unit</title>
+	 	<zone>Level C</zone>
+ 		<code>18</code>
+ 		<bgColor>DA7660</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_2_18</mapscreen>
+		</directions>
+	</department>
+	<department><title>Postnatal Unit</title>
+		<zone>Level C</zone>
+		<code>18</code>
+		<bgColor>DA7660</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_2_18</mapscreen>
+		</directions>
+	</department>
+	<department><title>PALS Office</title>
+		<zone>Level C</zone>
+		<code></code>
+		<bgColor>DA7660</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_2_18b</mapscreen>
+		</directions>
+	</department>
+	<department><title>Neonatal Unit</title>
+		<zone>Level C</zone>
+		<code>19</code>
+		<bgColor>DA7660</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_2_19</mapscreen>
+		</directions>
+	</department>
+	<department><title>Respiratory</title>
+		<zone>Level C</zone>
+		<code>20</code>
+		<bgColor>DA7660</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_2_20</mapscreen>
+		</directions>
+	</department>
+	<department><title>Haematology</title> 
+		<zone>Level C</zone> 
+		<code>21</code>
+		<bgColor>DA7660</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_2_21</mapscreen>
+		</directions>
+	</department>
+	<department><title>Outpatients</title>
+		<zone>Level C</zone>
+		<code>22</code>
+		<bgColor>DA7660</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_2_22</mapscreen>
+		</directions>
+	</department>
+	<department><title>Oral + Facial</title> 
+		<zone>Level C</zone>
+		<code>25</code>
+		<bgColor>DA7660</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_2_25</mapscreen>
+		</directions>
+	</department>
+	<department><title>Oncology + Haematology Day Unit</title>
+		<zone>Level C</zone> 
+		<code>23</code> 
+		<bgColor>DA7660</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_2_23</mapscreen>
+		</directions>
+	</department>
+	<department><title>Neurophysiology / EEG</title>
+		<zone>Level C</zone> 
+		<code>24</code> 
+		<bgColor>DA7660</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_2_24</mapscreen>
+		</directions>
+	</department>
+	<department><title>ENT</title> 
+		<zone>Level C</zone> 
+		<code>26</code> 
+		<bgColor>DA7660</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_2_26</mapscreen>
+		</directions>
+	</department>
+	<department><title>Audiology</title> 
+		<zone>Level C</zone> 
+		<code>26</code> 
+		<bgColor>DA7660</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_2_26</mapscreen>
+		</directions>
+	</department>
+	<department><title>Intensive Care Unit</title> 
+		<zone>Level C</zone> 
+		<code>30</code>
+		<bgColor>DA7660</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_2_30</mapscreen>
+		</directions>
+	</department>
+	<department><title>Augmented Care</title> 
+		<zone>Level C</zone>
+		<code>27</code>
+		<bgColor>DA7660</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_2_27</mapscreen>
+		</directions>
+	</department>
+	<department><title>Plastic Surgery</title> 
+		<zone>Level C</zone>
+		<code>28</code>
+		<bgColor>DA7660</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_2_28</mapscreen>
+		</directions>
+	</department>
+	<department><title>Plastic Dressing Clinic</title>
+		<zone>Level C</zone>
+		<code>28a</code> 
+		<bgColor>DA7660</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_2_28a</mapscreen>
+		</directions>
+	</department>
+	<department><title>Burns Unit</title>
+		<zone>Level C</zone>
+		<code>29</code> 
+		<bgColor>DA7660</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_2_29</mapscreen>
+		</directions>
+	</department>
+	<department><title>Cardiology</title> 
+		<zone>Level D</zone>
+		<code>31</code>
+		<bgColor>91848B</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_3_31</mapscreen>
+		</directions>
+	</department>
+	<department><title>Surgical Assessment</title>
+		<zone>Level D</zone> 
+		<code>32</code> 
+		<bgColor>91848B</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_3_32</mapscreen>
+		</directions>
+	</department>
+	<department><title>Orthopaedic</title>
+		<zone>Level D</zone>
+		<code>33</code>
+		<bgColor>91848B</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_3_33</mapscreen>
+		</directions>
+	</department>
+	<department><title>Surgical Ward</title> 
+		<zone>Level D</zone> 
+		<code>33</code>
+		<bgColor>91848B</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_3_33</mapscreen>
+		</directions>
+	</department>
+	<department><title>Urology + Gynaecology</title> 
+		<zone>Level D</zone> 
+		<code>34</code> 
+		<bgColor>91848B</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_3_34</mapscreen>
+		</directions>
+	</department>
+	<department><title>Day Surgery</title>
+		<zone>Level D</zone>
+		<code>35</code> 
+		<bgColor>91848B</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_3_35</mapscreen>
+		</directions>
+	</department>
+	<department><title>Theatres</title> 
+		<zone>Level D</zone>
+		<code></code>
+		<bgColor>91848B</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_3_35a</mapscreen>
+		</directions>
+	</department>
+	<department><title>Gate 36</title> 
+		<zone>Level D</zone>
+		<code>36</code>
+		<bgColor>91848B</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_3_36</mapscreen>
+		</directions>
+	</department>
+	<department><title>Infusion Day Unit</title> 
+		<zone>Level D</zone>
+		<code>37</code>
+		<bgColor>91848B</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_3_37</mapscreen>
+		</directions>
+	</department>
+	<department><title>Gate 38</title> 
+		<zone>Level D</zone> 
+		<code>38</code>
+		<bgColor>91848B</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_3_38</mapscreen>
+		</directions>
+	</department>
+	<department><title>Endoscopy / Scoping Unit</title> 
+		<zone>Level D</zone>
+		<code>39</code>
+		<bgColor>91848B</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_3_39</mapscreen>
+		</directions>
+	</department>
+	<department><title>Multifaith Centre</title> 
+		<zone>Level D</zone> 
+		<code></code>
+		<bgColor>91848B</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_3_39a</mapscreen>
+		</directions>
+	</department>
+	<department><title>Elderly Medicine</title> 
+		<zone>Level E</zone>
+		<code>41</code>
+		<bgColor>EED43D</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_4_41</mapscreen>
+		</directions>
+	</department>
+	<department><title>Elderly + Orthogeriatric</title> 
+		<zone>Level E</zone>
+		<code>42</code>
+		<bgColor>EED43D</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_4_42</mapscreen>
+		</directions>
+	</department>
+	<department><title>Elderly Ward</title> 
+		<zone>Level E</zone>
+		<code>43</code>
+		<bgColor>EED43D</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_4_43</mapscreen>
+		</directions>
+	</department>
+	<department><title>Gastroenterology</title> 
+		<zone>Level E</zone>
+		<code>44</code>
+		<bgColor>EED43D</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_4_44</mapscreen>
+		</directions>
+	</department>
+	<department><title>Gate 45</title> 
+		<zone>Level E</zone>
+		<code>45</code>
+		<bgColor>EED43D</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_4_45</mapscreen>
+		</directions>
+	</department>
+	<department><title>Children's Burn Unit</title> 
+		<zone>Level E</zone>
+		<code>46</code>
+		<bgColor>EED43D</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_4_46</mapscreen>
+		</directions>
+	</department>
+	<department><title>Gate 46a</title> 
+		<zone>Level E</zone>
+		<code>46a</code>
+		<bgColor>EED43D</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_4_46a</mapscreen>
+		</directions>
+	</department>
+	<department><title>Children's Inpatients</title> 
+		<zone>Level E</zone>
+		<code>46</code>
+		<bgColor>EED43D</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_4_46</mapscreen>
+		</directions>
+	</department>
+	<department><title>Gate 47</title> 
+		<zone>Level E</zone>
+		<code>47</code>
+		<bgColor>EED43D</bgColor>
+		<directions>
+			<mapscreen>map_lift_zoom</mapscreen><mapscreen>map_4_47</mapscreen>
+		</directions>
+	</department>
+</departments>
